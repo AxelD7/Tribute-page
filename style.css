@@ -3,6 +3,7 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
+  background-color:#1803D7;
 }
 
 h1 {
@@ -13,7 +14,10 @@ h1 {
 #Titleimage {
   height: 300px;
   width: 60%;
+  
 }
 p {
-  padding-top: 100px;
+  padding: 10px;
+  position: relative;
+  border: solid;
 }
